@@ -1,0 +1,9 @@
+name: FastBridge
+version: 0.1
+main: net.fastbridge.main.Main
+author: MxxTmm
+commands:
+  build:
+  vanish:
+    aliases:
+      - v
